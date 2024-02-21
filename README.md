@@ -1,9 +1,9 @@
-Title: Data Visualization on Honey Production dataset using seaborn
-and matplotlib libraries.
+**Title: Data Visualization on Honey Production dataset using seaborn
+and matplotlib libraries.**
 
-Domain: Food and agriculture
+**Domain: Food and agriculture**
 
-Context:
+**Context:**
 In 2006, a global concern was raised over the rapid decline in the honeybee population, an integral component
 to American honey agriculture. Large numbers of hives were lost to “Colony-Collapse-Disorder”, a
 phenomenon of disappearing “worker-bees” causing the remaining “hive-colony” to collapse. Speculation
@@ -14,11 +14,11 @@ consumes per year. Now, honey mostly comes from overseas, with 350 of the 400 mi
 consumed every year originating from imports. This dataset provides insight into honey production supply and
 demand in America by state from 1998 to 2012.
 
-Objective:
+**Objective:**
 The Goal is to use Python visualization libraries such as seaborn and matplotlib to investigate the data and get
 some useful conclusions.
 
-Attribute Information:
+**Attribute Information:**
 Slno. Attribute Description
 1. numcol Number of honey producing colonies.
 2. yield percol Honey yield per colony. (Unit is pounds)
