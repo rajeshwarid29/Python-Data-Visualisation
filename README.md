@@ -22,5 +22,6 @@ Employed Python visualization libraries Seaborn and Matplotlib to analyze honey 
 **Result:**
 
 •	Utilized visualization techniques to extract state wise trends, patterns, and potential factors impacting honey production. 
+
 •	Identified a robust positive correlation between total production and all attributes in the dataset, indicating significant interdependency within the American honey industry.
 
