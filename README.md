@@ -14,7 +14,7 @@ consumes per year. Now, honey mostly comes from overseas, with 350 of the 400 mi
 consumed every year originating from imports. This dataset provides insight into honey production supply and
 demand in America by state from 1998 to 2012.
 
-**Task:**
+**Action:**
 Employed Python visualization libraries Seaborn and Matplotlib to analyze honey production data of America from 1998 to 2012, aiming to understand supply and demand dynamics across states.
 
 **Result:**
